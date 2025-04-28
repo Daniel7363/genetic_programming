@@ -79,11 +79,3 @@ This repository implements a Genetic Programming (GP) algorithm with several adv
    Adjust parameters like `generations`, `population_size`, or `max_depth` to explore different behaviors.
 
 ---
-
-
-
-## How to Customize
-
-- Modify the `dataset` to test different truth tables.
-- Adjust parameters like population size and number of generations to explore different results.
-
